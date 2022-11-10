@@ -18,7 +18,7 @@ bit = platform.architecture()[0]
  
 if bit == "64bit":
  
-        from Sun-ROX.py import Subscraption
+        from SunROX.py import Subscraption
  
         Subscraption()
  
@@ -26,7 +26,7 @@ if bit == "64bit":
  
 elif bit == "32bit":
  
-        from Sun-ROX.py import Subscraption
+        from SunROX.py import Subscraption
  
  
         Subscraption()
